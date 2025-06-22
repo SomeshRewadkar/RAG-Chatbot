@@ -1,0 +1,35 @@
+=== Summary Generation ===
+Metric     | Score
+----------------------
+BLEU       | 0.0126
+ROUGE-1    | 0.2362
+ROUGE-2    | 0.112
+ROUGE-L    | 0.1732
+METEOR     | 0.285
+
+Initializing retriever...
+Initializing retriever from persistent storage...
+Retriever initialized.
+
+Running Test Case 2: Question Answering...
+
+=== Question Answering ===
+Metric     | Score
+----------------------
+BLEU       | 0.0062
+ROUGE-1    | 0.125
+ROUGE-2    | 0.0667
+ROUGE-L    | 0.125
+METEOR     | 0.1042
+
+Running Test Case 3: Summary Modification...
+Summary has been modified and saved.
+
+=== Summary Modification ===
+Metric     | Score
+----------------------
+BLEU       | 0.0122
+ROUGE-1    | 0.2707
+ROUGE-2    | 0.1221
+ROUGE-L    | 0.1955
+METEOR     | 0.2911
