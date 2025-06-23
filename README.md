@@ -19,7 +19,7 @@ Virtual environment (recommended)
 ## Setup 🛠️
 
 Clone the Repository:
-git clone https://github.com/your-username/RAG-Chatbot.git
+git clone https://github.com/SomeshRewadkar/RAG-Chatbot.git
 cd RAG-Chatbot
 
 
