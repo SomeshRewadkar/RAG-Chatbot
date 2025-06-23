@@ -29,9 +29,7 @@ source myenv/bin/activate  # On Windows: myenv\Scripts\activate
 
 
 ## Install Dependencies:
-pip install -r requirements.txt
 
-Or manually:
 pip install streamlit langchain langchain-community langchain-chroma langchain-google-genai pypdf python-dotenv nltk rouge-score
 
 
